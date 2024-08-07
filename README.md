@@ -17,10 +17,7 @@
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
 </p>
 
-<div>
-  <h4>📊&nbsp&nbspGitHub Status</h4>
- <img style="height: auto; width: 40%; class="img" src="https://github-readme-stats.vercel.app/api?username=SeanKim05&show_true&theme=dark" />
-</div>
+
 <div>
   <h4>🌐&nbsp&nbspTop Language</h4>
  <img style="height: auto; width: 40%; class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeanKim05&true&theme=dark" />
