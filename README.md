@@ -1,5 +1,5 @@
 <h3>안녕하세요 김유현 입니다. 👋</h3>
-<h5>1년차 프론트엔드 개발자 입니다.</h5>
+<h5>2년차 프론트엔드 개발자 입니다.</h5>
 <h4>🧰&nbsp&nbspTech stacks</h4>
 <p>
 <p>
@@ -17,9 +17,3 @@
   <img src="https://img.shields.io/badge/Recoil-4630EB?style=for-the-badge&logo=recoil&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
 </p>
-
-
-<div>
-  <h4>🌐&nbsp&nbspTop Language</h4>
- <img style="height: auto; width: 40%; class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeanKim05&true&theme=dark" />
-</div>
